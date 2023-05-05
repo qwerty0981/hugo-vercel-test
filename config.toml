@@ -1,4 +1,4 @@
-baseurl = "https://example.com/"
+baseurl = "https://hugo-vercel-test.vercel.app"
 languageCode = "en-us"
 theme = "hugo-theme-terminal"
 paginate = 5
